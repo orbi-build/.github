@@ -14,11 +14,11 @@ Label an Issue `ai-ready`. Orbi writes the change in its own worktree and opens 
 
 **Repositories**
 
-- [orbi](https://github.com/orbi-build/orbi): The engine: runner, independent review, merge gate, release
-- [orbi-bench](https://github.com/orbi-build/orbi-bench): Benchmarks for the delivery harness on real open-source bugs
+- [orbi](https://github.com/orbi-build/orbi): the engine, with the runner, independent review, merge gate and release
+- [orbi-bench](https://github.com/orbi-build/orbi-bench): benchmarks for the delivery harness on real open-source bugs
 - [orbi-cloud-docs](https://github.com/orbi-build/orbi-cloud-docs): Orbi Cloud user documentation
-- [orbi-website](https://github.com/orbi-build/orbi-website): [orbi.build](https://orbi.build/?ref=gh-org)
-- [orbi-design-system](https://github.com/orbi-build/orbi-design-system): Design tokens and brand rules
+- [orbi-website](https://github.com/orbi-build/orbi-website): the site at [orbi.build](https://orbi.build/?ref=gh-org)
+- [orbi-design-system](https://github.com/orbi-build/orbi-design-system): design tokens and brand rules
 
 The forks under this organization are where Orbi prepares fixes for upstream open-source projects before they are proposed there.
 
